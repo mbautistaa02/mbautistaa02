@@ -1,6 +1,6 @@
 ## 👋 About Me  
 Hi!, I'm Luisa Bautista.
-I’m a Systems Engineering student at National University of Colombia.  
+I’m a Systems Engineering student at Universidad Nacional de Colombia.  
 I enjoy learning new technologies and improving my skills. 
 
 
