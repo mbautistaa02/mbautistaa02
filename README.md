@@ -1,4 +1,10 @@
-## Hi there 👋
+## 👋 Hi, I'm Luisa Bautista. I love building projects and learning new technologies.
+# Skills & Technologies
+☕ ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+# Projects
+I have worked in some projects that include:
+👚👖 ThriftStop – An app for selling and buying second-hand clothes.
+🎓 LearnHub - Your go-to web platform for discovering electives, Coursera courses, and exclusive university channels.
 
 <!--
 **mbautistaa02/mbautistaa02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
