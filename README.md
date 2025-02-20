@@ -1,4 +1,9 @@
-## 👋 Hi, I'm Luisa Bautista. I love building projects and learning new technologies.
+## 👋 About Me  
+Hi!, I'm Luisa Bautista.
+I’m a Systems Engineering student at National University of Colombia.  
+I enjoy learning new technologies and improving my skills. 
+
+
 ### 🚀 Skills & Technologies
 
 💻 **Programming:**  
