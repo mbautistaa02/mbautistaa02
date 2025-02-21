@@ -1,20 +1,20 @@
-## 👋 About Me  
+## About Me  
 Hi!, I'm Luisa Bautista.
 I’m a Systems Engineering student at Universidad Nacional de Colombia.  
 I enjoy learning new technologies and improving my skills. 
 
 
-### 🚀 Skills & Technologies
+### Skills & Technologies
 
-💻 **Programming:**  
+   *   **Programming:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-🛠️ **Frameworks:**  
+   *   **Frameworks:**  
 ![JavaFX](https://img.shields.io/badge/JavaFX-0095D5?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-🗄️ **Databases:**  
+   *  **Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
